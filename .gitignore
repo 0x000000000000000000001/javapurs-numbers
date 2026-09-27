@@ -5,3 +5,6 @@ output/
 output.bak/
 /.psci*
 /src/.webpack.js
+java_output/
+classes/
+.spago/
